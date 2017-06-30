@@ -8,6 +8,7 @@ Created on Mon Jun 26 18:07:11 2017
 """
 Simple TensorFlow exercises
 You should thoroughly test your code
+https://github.com/chiphuyen/tf-stanford-tutorials/tree/master/assignments/exercises
 """
 
 import tensorflow as tf
